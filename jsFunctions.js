@@ -1,4 +1,4 @@
-const jsonPath = "http://localhost:8080//Komikilandia/comic";
+const jsonPath = "data.json";
 document.addEventListener("DOMContentLoaded", function (event) {
     llenarcomics();
     // asd();
@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 
 function llenarcomics() {
     var rawFile = new XMLHttpRequest();
-    rawFile.open("GET", jsonPath + "s", true);
+    rawFile.open("GET", jsonPath, true);
     rawFile.responseType = "text";
     // rawFile.overrideMimeType("text/html; charset=UTF-8");
     rawFile.onreadystatechange = () => {
@@ -67,32 +67,4 @@ function llenarcomics() {
         }
     }
     rawFile.send(null);
-}
-
-function asd() {
-    $.ajax({
-        url: jsonPath + "s",
-        type: "GET",
-        success: (a) => {
-            for (let i = a.length - 1; i > 0; i--) {
-                console.log(a[i])
-                document.getElementById("comics").innerHTML += '<div class="col">'
-                    + '<div class="card mb-5 mx-auto" style="width: 18rem;">'
-                    + '<img class="card-img-top" src="' + a[i].imagen + '" alt="Card image cap">'
-                    + '<div class="card-body">'
-                    + '<h5 class="card-title">' + a[i].nombre + '</h5>'
-                    + '<p class="card-text">' + a[i].titulo + '</p>'
-                    + '<a href="#" class="btn btn-primary">Más información</a>'
-                    + '</div>'
-                    + '<div class="card-footer">'
-                    + '<small class="text-muted">Likes: ' + a[i].num_likes + '</small>'
-                    + '</div>'
-                    + '</div>'
-                    + '</div>';
-            }
-        },
-        error: (e) => {
-            alert(e)
-        }
-    })
 }
