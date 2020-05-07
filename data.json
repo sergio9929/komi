@@ -1,0 +1,197 @@
+[
+    {
+        "genero": {
+            "id": 3,
+            "nombre": "americano"
+        },
+        "num": 1,
+        "titulo": "El acto fáustico",
+        "imagen": "https://enjoycomics.com/images/covers/full/69/585197369.jpeg",
+        "id": 10,
+        "num_likes": 0,
+        "nombre": "The Wicked + The Divine",
+        "fecha_publicacion": "2017-03-30"
+    },
+    {
+        "genero": {
+            "id": 5,
+            "nombre": "ciencia ficción"
+        },
+        "num": 1,
+        "titulo": "Inspectora Akane Tsunemori",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/91Krjxaz-JL.jpg",
+        "id": 12,
+        "num_likes": 0,
+        "nombre": "Psycho Pass",
+        "fecha_publicacion": "2012-11-02"
+    },
+    {
+        "genero": {
+            "id": 5,
+            "nombre": "ciencia ficción"
+        },
+        "num": 1,
+        "titulo": "El Humano",
+        "imagen": "https://www.lacupula.com/wp-content/uploads/2020/01/Lucas-Varela-y-Diego-Agrimbau-El-Humano-cubierta.jpg",
+        "id": 15,
+        "num_likes": 0,
+        "nombre": "El Humano",
+        "fecha_publicacion": "2020-02-20"
+    },
+    {
+        "genero": {
+            "id": 6,
+            "nombre": "erótico"
+        },
+        "num": 1,
+        "titulo": "Primeras veces",
+        "imagen": "https://www.lacupula.com/wp-content/uploads/2009/07/P-Primeras-Veces-alta.jpg",
+        "id": 11,
+        "num_likes": 0,
+        "nombre": "Primeras veces",
+        "fecha_publicacion": "2008-11-28"
+    },
+    {
+        "genero": {
+            "id": 2,
+            "nombre": "europeo"
+        },
+        "num": 1,
+        "titulo": "Asterix el galo",
+        "imagen": "https://detodoexpres.com/56111-medium_default/asterix-el-galo.jpg",
+        "id": 3,
+        "num_likes": 100,
+        "nombre": "Asterix y Obelix",
+        "fecha_publicacion": "1959-10-29"
+    },
+    {
+        "genero": {
+            "id": 2,
+            "nombre": "europeo"
+        },
+        "num": 2,
+        "titulo": "La oz de horo",
+        "imagen": "https://www.asterix.com/wp-content/uploads/2017/06/alb02es.png",
+        "id": 4,
+        "num_likes": 30,
+        "nombre": "Asterix y Obelix",
+        "fecha_publicacion": "1960-08-11"
+    },
+    {
+        "genero": {
+            "id": 2,
+            "nombre": "europeo"
+        },
+        "num": 1,
+        "titulo": "Protagonista",
+        "imagen": "https://www.alcalacomics.com/wp-content/uploads/prota_800x.jpg",
+        "id": 6,
+        "num_likes": 0,
+        "nombre": "Protagonista",
+        "fecha_publicacion": "2019-09-02"
+    },
+    {
+        "genero": {
+            "id": 2,
+            "nombre": "europeo"
+        },
+        "num": 1,
+        "titulo": "La historia completa",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/71ipT0iKr6L.jpg",
+        "id": 7,
+        "num_likes": 0,
+        "nombre": "Taxus",
+        "fecha_publicacion": "2019-12-05"
+    },
+    {
+        "genero": {
+            "id": 7,
+            "nombre": "humor"
+        },
+        "num": 1,
+        "titulo": "Más vale lola que mal acompañada",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/81Ju9xBjfDL.jpg",
+        "id": 16,
+        "num_likes": 0,
+        "nombre": "Lola Vendetta",
+        "fecha_publicacion": "2017-03-02"
+    },
+    {
+        "genero": {
+            "id": 7,
+            "nombre": "humor"
+        },
+        "num": 1,
+        "titulo": "The end of the fucking world",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/81kcobS5AgL.jpg",
+        "id": 17,
+        "num_likes": 0,
+        "nombre": "The end of the fucking world",
+        "fecha_publicacion": "2018-06-21"
+    },
+    {
+        "genero": {
+            "id": 4,
+            "nombre": "infantil"
+        },
+        "num": 1,
+        "titulo": "El Festival de los Dragones de Té",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/81QXnptWC5L.jpg",
+        "id": 13,
+        "num_likes": 0,
+        "nombre": "El Festival de los Dragones de Té",
+        "fecha_publicacion": "2019-09-18"
+    },
+    {
+        "genero": {
+            "id": 4,
+            "nombre": "infantil"
+        },
+        "num": 1,
+        "titulo": "Made in Abyss",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/91N8saM4HdL.jpg",
+        "id": 14,
+        "num_likes": 0,
+        "nombre": "Made in Abyss",
+        "fecha_publicacion": "2013-07-31"
+    },
+    {
+        "genero": {
+            "id": 1,
+            "nombre": "manga"
+        },
+        "num": 1,
+        "titulo": "El Espadachín Negro",
+        "imagen": "https://im-pack-yak.inmanga.com/images/manga/Berserk/chapter/1/page/1/15c1d15b-4d03-4c16-967c-2d4b8cebf8eb",
+        "id": 5,
+        "num_likes": 0,
+        "nombre": "Berserk",
+        "fecha_publicacion": "1990-11-26"
+    },
+    {
+        "genero": {
+            "id": 8,
+            "nombre": "superhéroes"
+        },
+        "num": 5,
+        "titulo": "Amanecer negro",
+        "imagen": "https://www.ecccomics.com/content/productos/7662/PORTADA_JPG_WEB_superman_amanecer_negro.jpg",
+        "id": 8,
+        "num_likes": 0,
+        "nombre": "Superman",
+        "fecha_publicacion": "2020-03-10"
+    },
+    {
+        "genero": {
+            "id": 8,
+            "nombre": "superhéroes"
+        },
+        "num": 1,
+        "titulo": "Midoriya Izuku: El origen",
+        "imagen": "https://i.pinimg.com/originals/0a/18/1d/0a181de50d32e7147058fb1f3795fa95.jpg",
+        "id": 18,
+        "num_likes": 0,
+        "nombre": "My Hero Academia",
+        "fecha_publicacion": "2014-07-07"
+    }
+]
