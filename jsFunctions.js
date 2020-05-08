@@ -1,7 +1,6 @@
 const jsonPath = "data.json";
 document.addEventListener("DOMContentLoaded", function (event) {
     llenarcomics();
-    // asd();
 });
 
 function llenarcomics() {
