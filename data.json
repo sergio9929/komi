@@ -57,32 +57,6 @@
             "nombre": "europeo"
         },
         "num": 1,
-        "titulo": "Asterix el galo",
-        "imagen": "https://detodoexpres.com/56111-medium_default/asterix-el-galo.jpg",
-        "id": 3,
-        "num_likes": 100,
-        "nombre": "Asterix y Obelix",
-        "fecha_publicacion": "1959-10-29"
-    },
-    {
-        "genero": {
-            "id": 2,
-            "nombre": "europeo"
-        },
-        "num": 2,
-        "titulo": "La oz de horo",
-        "imagen": "https://www.asterix.com/wp-content/uploads/2017/06/alb02es.png",
-        "id": 4,
-        "num_likes": 30,
-        "nombre": "Asterix y Obelix",
-        "fecha_publicacion": "1960-08-11"
-    },
-    {
-        "genero": {
-            "id": 2,
-            "nombre": "europeo"
-        },
-        "num": 1,
         "titulo": "Protagonista",
         "imagen": "https://www.alcalacomics.com/wp-content/uploads/prota_800x.jpg",
         "id": 6,
