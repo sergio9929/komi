@@ -69,11 +69,6 @@ body {
     color: var(--orange);
 }
 
-.titulo {
-    font-size: 20px;
-    margin: 0 15% 0 15%;
-}
-
 .card {
     line-height: 10px;
 }
@@ -81,10 +76,6 @@ body {
 .card-header, .card-footer, .card-img-top, .card p, .card a, .card h5 {
     z-index: 10;
     position: relative;
-}
-
-.card-img-top {
-    left: -3rem;
 }
 
 .imagen {
@@ -106,6 +97,14 @@ body {
     height: 8px;
     width: 8px;
     fill: #ccc;
+}
+
+.modal-body {
+    padding: 0!important;
+}
+
+.modal .mas {
+    transform: rotate(45deg);
 }
 
 .cls-2 {
@@ -133,6 +132,7 @@ body {
     height: auto;
     width: 100%;
     text-align: center;
+    z-index: -1;
 }
 
 .card-footer .d-flex p {
@@ -140,4 +140,15 @@ body {
     left: -1.25rem;
     width: 100%;
     text-align: center;
+}
+
+.like {
+    text-decoration: none!important;
+    line-height: 0;
+    padding: 0px;
+}
+
+.like:hover, .like:focus {
+    box-shadow: 0px 0px 0px 12px var(--dark3);
+    background: var(--dark3);
 }
