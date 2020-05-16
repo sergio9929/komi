@@ -15,7 +15,7 @@ function llenarcomics() {
             var genero_color = ["light", "info", "primary", "danger", "orange", "purple", "pink", "warning", "success"];
             for (let i = 0; i < a.length; i++) {
                 contenido += '<div class="card border-0 bg-none px-2 mb-4 mx-auto">'
-                    + '<div class="card light overflow-hidden h-100" style="width: 19rem;">'
+                    + '<div class="card sombreado light overflow-hidden h-100" style="width: 19rem;">'
                     + '<div class="d-flex justify-content-center align-items-center" href="javascript:void(0);"><img class="card-img-top" src="' + a[i].imagen + '" alt="Card image cap"></div>'
                     + '<div class="card-body">'
                     + '<h5 class="card-title">' + a[i].nombre + '</h5>'
